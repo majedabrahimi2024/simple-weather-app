@@ -1,0 +1,23 @@
+@media all and  (max-width:600px){
+    .back_cold{
+        background: url("../images/cold2.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width:100%;
+        height:100%;
+    }
+    .back_warm{
+        background: url("../images/warm2.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width:100%;
+        height:100%;
+    }
+    .back_usual{
+        background: url("../images/usual2.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width:100%;
+        height:100%;
+    }
+}
