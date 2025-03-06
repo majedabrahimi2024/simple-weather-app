@@ -80,7 +80,7 @@ const Weather = () => {
                     </>
                 ) : error ? (
                     <div className="col-12 my-4">
-                        <h3 className="text-center text_color">نام شهر یا کشور را به درستی وترد کنید</h3>
+                        <h3 className="text-center text_color">نام شهر یا کشور را به درستی وارد کنید</h3>
                     </div>
                 ) : (
                     <div className="col-12 my-4">
